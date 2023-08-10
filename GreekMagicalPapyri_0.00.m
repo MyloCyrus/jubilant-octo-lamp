@@ -7,7 +7,7 @@ Books
  
 Video
  
-Audio
+Audio .
  
 Software
  
@@ -97,7 +97,7 @@ THE UNIVERSITY OF CHICAGO PRESS, LTD., LONDON
 Ail rights reserved. Published 1986 
 Printed in the United States of America 
 95 94 93 92 91 90 89 88 87 86 54321 
-
+.
 
 
 This project has been supported by the National Endowment 
