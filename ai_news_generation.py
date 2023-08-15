@@ -1,4 +1,4 @@
-er = EventRegistry(apiKey = YOUR_API_KEY)
+er = EventRegistry(apiKey = 77e62a6d-8cff-4fcd-97f0-0317c285dae3)
 query = {
     "$query": {
         "$and": [
